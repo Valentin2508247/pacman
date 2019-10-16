@@ -7,7 +7,7 @@ You need
 + MongoDb running on localhost
 + Python in Visual Studio
 + pymongo library
-+ pygame library
++ pygame library  
 Open project in Visual Studio and run it or  
 execute cmd comands:  
 cd *project_destination*  
